@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PayIOO Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_friends">Profile</string>
+    <string name="nav_item_notifications">Settings</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_notifications</item>
+    </string-array>
+
+    <string name="title_messages">Settings</string>
+    <string name="title_friends">Profile</string>
+    <string name="title_home">Home</string>
+    <string name="title_activity_send__amount">Send_Amount</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_qr__generate">Qr_Generate</string>
+    <string name="title_activity_pay_ioo">PayIoo</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_register">Register</string>
+</resources>
